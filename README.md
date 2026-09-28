@@ -1,2 +1,2 @@
-# seminariosweb.pagesEC0901
+# seminarioswebEC0901
 x
